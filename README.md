@@ -52,12 +52,21 @@ Mathematics at the Limits of Computation](http://press.princeton.edu/chapters/s8
 The Golden Ticket, Chapter 1  
 Khan Academy [video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) and the two accompanying exercises [1](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game) [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
 
+#### Homework (due 09/21/18 by 1:30 PM)
+
+[Questions](assignments/week1hw.md)
+
 ### 2. P vs. NP
 
 #### Readings (after class 2)
 The Golden Ticket, Chapter 3, 4  
 [New York Times article](http://www.nytimes.com/2012/02/19/health/lives-forever-linked-through-kidney-transplant-chain-124.html) about a successful kidney transplant cycle  
 [Refresher on DNA](https://youtu.be/s1j-DuYJFr0) as preparation for Class 3
+
+### 2.5 CS Department Lecture: Scott Aaronson
+[Seminar announcement](https://www.cs.jhu.edu/wp-content/uploads/sites/8/2018/07/Krashopoler-2018-flyer.jpg)
+September 27, 10:30-11:30 AM, Hackerman B-17  
+Although this is not a scheduled class meeting, please do your best to attend if you do not have another class at this time. Arrive early for refreshments! 
 
 ### 3. Graph paths in bioinformatics: genome assembly
 
