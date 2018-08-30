@@ -1,4 +1,4 @@
-## The Golden Ticket ch. 1 & Cook ch. 1
+## Homework 1
 
 Please email your answers to these questions to cdarby at jhu.edu by September 21 at 1:30 PM  
 

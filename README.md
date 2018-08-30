@@ -46,62 +46,63 @@ Related to the movie - essay by British mathematician G. H. Hardy [A Mathematici
 ## Schedule  
 ### 1. The The Traveling Salesman Problem (TSP)  
 
-#### Readings (after class 1)
-[In Pursuit of the Traveling Salesman:
+#### Homework & Readings (due 09/21/18 by 1:30 PM)
+* [Homework Questions](assignments/week1hw.md)
+* [In Pursuit of the Traveling Salesman:
 Mathematics at the Limits of Computation](http://press.princeton.edu/chapters/s8451.pdf), Chapter 1. William J. Cook (JHU AMS professor)    
-The Golden Ticket, Chapter 1  
-Khan Academy [video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) and the two accompanying exercises [1](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game) [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
+* The Golden Ticket, Chapter 1  
+* Khan Academy [video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) and the two accompanying exercises [1](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game) [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
 
-#### Homework (due 09/21/18 by 1:30 PM)
 
-[Questions](assignments/week1hw.md)
+### 2. Graph Algorithms
 
-### 2. P vs. NP
-
-#### Readings (after class 2)
-The Golden Ticket, Chapter 3, 4  
-[New York Times article](http://www.nytimes.com/2012/02/19/health/lives-forever-linked-through-kidney-transplant-chain-124.html) about a successful kidney transplant cycle  
-[Refresher on DNA](https://youtu.be/s1j-DuYJFr0) as preparation for Class 3
+#### Homework & Readings (due 09/28/18 by 1:30 PM)
+* [Homework Questions](assignments/week2hw.md)
+* The Golden Ticket, Chapter 3, 4  
+* [New York Times article](materials/nyt_kidney.pdf) about a successful kidney transplant cycle ([Original link including pictures](http://www.nytimes.com/2012/02/19/health/lives-forever-linked-through-kidney-transplant-chain-124.html))  
 
 ### 2.5 CS Department Lecture: Scott Aaronson
 [Seminar announcement](https://www.cs.jhu.edu/wp-content/uploads/sites/8/2018/07/Krashopoler-2018-flyer.jpg)
 September 27, 10:30-11:30 AM, Hackerman B-17  
 Although this is not a scheduled class meeting, please do your best to attend if you do not have another class at this time. Arrive early for refreshments! 
 
-### 3. Graph paths in bioinformatics: genome assembly
+### 3. P vs. NP and the Computational Complexity Zoo
 
-#### Readings (after class 3)
-Phillip Compeau, Pavel Pevzner, Glenn Tesler. [How to apply de Bruijn graphs to genome assembly.](https://www.researchgate.net/publication/51784417_How_to_apply_de_Bruijn_graphs_to_genome_assembly) Nature Biotech. 2011  
 [Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) 
 
-### 4. P vs. NP and the Computational Complexity Zoo
+#### Homework & Readings (due 10/05/18 by 1:30 PM)  
+* [Homework Questions](assignments/week3hw.md)
+* The Golden Ticket, Chapter 6, 5   
+* [A perspective](https://www.ibm.com/developerworks/community/blogs/jfp/entry/no_the_tsp_isn_t_np_complete?lang=en) on the nuances of the TSP  
+* [Refresher on DNA](https://youtu.be/s1j-DuYJFr0) as preparation for Class 4  
 
-#### Readings (after class 4)
-The Golden Ticket, Chapter 6, 5   
-[A perspective](https://www.ibm.com/developerworks/community/blogs/jfp/entry/no_the_tsp_isn_t_np_complete?lang=en) on the nuances of the TSP  
+### 4. Graph paths in bioinformatics: genome assembly
+
+#### Homework & Readings  
+* Phillip Compeau, Pavel Pevzner, Glenn Tesler. [How to apply de Bruijn graphs to genome assembly.](https://www.researchgate.net/publication/51784417_How_to_apply_de_Bruijn_graphs_to_genome_assembly) Nature Biotech. 2011  
 
 ### 5. Heuristics and Computability    
 
 [Turing Machine Video](https://youtu.be/dNRDvLACg5Q)  
 [Halting Problem Video](https://youtu.be/macM_MtS_w4)
 
-#### Readings (after class 5)
-["Antibodies"](http://www.baen.com/Chapters/9781625791870/9781625791870___2.htm) (short story) by Charles Stross  
-SIGACT News [2002](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) and [2012](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf) surveys of computer scientists (William Gasarch)  
-The Golden Ticket, Chapter 2
+#### Homework & Readings
+* ["Antibodies"](http://www.baen.com/Chapters/9781625791870/9781625791870___2.htm) (short story) by Charles Stross  
+* SIGACT News [2002](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) and [2012](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf) surveys of computer scientists (William Gasarch)  
+* The Golden Ticket, Chapter 2
 
 ### 5.5 Film: [Travelling Salesman, 2012](http://www.imdb.com/title/tt1801123/)
 
 ### 6. Social implications of P vs. NP   
 
-#### Readings (after class 6)
+#### Homework & Readings  
  
-The Golden Ticket, Chapter 7
+* The Golden Ticket, Chapter 7
 ### 7. Logic circuits
 
-#### Readings (after class 7)
+#### Homework & Readings
 
-The Golden Ticket, Chapter 8, 10  
+* The Golden Ticket, Chapter 8, 10  
 
 ### 8. Cryptography  
 
@@ -111,9 +112,8 @@ The Golden Ticket, Chapter 8, 10
 
 #### Readings (after class 8)
 
-Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009. 
-
-Zack Grossbart. [P vs. NP: The Assumption That Runs The Internet](https://www.smashingmagazine.com/2015/11/p-vs-np-assumption-that-runs-internet/) Magazine article (Smashing Magazine), 2015.
+* Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009. 
+* Zack Grossbart. [P vs. NP: The Assumption That Runs The Internet](https://www.smashingmagazine.com/2015/11/p-vs-np-assumption-that-runs-internet/) Magazine article (Smashing Magazine), 2015.
 
 ### 9. Presentations 
 
