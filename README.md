@@ -30,7 +30,7 @@ MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](htt
 ***Graph Paths in Bioinformatics***
 
 [de Bruijn graphs and Eulerian walks](https://www.youtube.com/watch?v=TNYZZKrjCSk) 
-from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing  
+from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing with [Jupyter notebook](http://nbviewer.jupyter.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_deBruijn.ipynb)  
 
 
 ***P vs. NP in popular culture***  
@@ -42,6 +42,10 @@ Related to the movie - essay by British mathematician G. H. Hardy [A Mathematici
 ***Cryptography***
 
 [RSA Algorithm Video](https://youtu.be/wXB-V_Keiu8)
+
+***Quantum Computing***  
+
+IBM Research phone app game ["Hello Quantum"](https://helloquantum.mybluemix.net/)
 
 ## Schedule  
 ### 1. The The Traveling Salesman Problem (TSP)  
