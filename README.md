@@ -27,6 +27,8 @@ MIT OCW Introduction to Algorithms: [Computational Complexity](https://www.youtu
 
 MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](https://www.youtube.com/watch?v=mr1FMrwi6Ew)  
 
+[Complexity Zoo wiki](https://complexityzoo.uwaterloo.ca/Complexity_Zoo)
+
 ***Graph Paths in Bioinformatics***
 
 [de Bruijn graphs and Eulerian walks](https://www.youtube.com/watch?v=TNYZZKrjCSk) 
