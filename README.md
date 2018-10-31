@@ -104,11 +104,12 @@ Although this is not a scheduled class meeting, please do your best to attend if
 #### Homework & Readings  
  
 * The Golden Ticket, Chapter 7
+* [Homework Questions](assignments/week6hw.md) 
 ### 7. Logic circuits
 
 #### Homework & Readings
 
-* The Golden Ticket, Chapter 8, 10  
+* The Golden Ticket, Chapter 8, 10 
 
 ### 8. Cryptography  
 
@@ -123,5 +124,13 @@ Although this is not a scheduled class meeting, please do your best to attend if
 
 ### 9. Presentations 
 
+1.  
+2.  
+3.  
+
 ### 10. Presentations cont'd.
- 
+
+1.  
+2.  
+3.  
+
