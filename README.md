@@ -1,6 +1,7 @@
 # HEART: Exploring algorithms for hard problems in computer science
 Fridays 1:30 - 3:00pm, [Gilman Hall](https://www.google.com/maps/place/Gilman+Hall/@39.3289406,-76.6238076,17z/data=!3m1!4b1!4m5!3m4!1s0x89c804df7a85e3d1:0x3607c0a82db4cd42!8m2!3d39.3289406!4d-76.6216189?hl=en) 10  
-September 14 2018 – November 30 2018 (except Oct 19 and Nov 23)  Instructor: [Charlotte Darby](https://www.linkedin.com/in/charlottedarby/) `cdarby at jhu.edu` 
+September 14 2018 – December 7 2018 (except Oct 19, Nov 16 and Nov 23)  
+Instructor: [Charlotte Darby](https://www.linkedin.com/in/charlottedarby/) `cdarby at jhu.edu` 
 
 ## Summary
 Many important optimization problems across engineering disciplines have been classified by computer scientists as computationally "hard" to solve. In this course, we'll step up to the challenge and work through the theoretical background of some of these famous problems and learn about algorithms developed to tackle them. We'll focus on graph problems, including Traveling Salesman, path-finding and graph coloring, with lessons based around visual representations and interactive activities.  
@@ -105,11 +106,13 @@ Although this is not a scheduled class meeting, please do your best to attend if
  
 * The Golden Ticket, Chapter 7
 * [Homework Questions](assignments/week6hw.md) 
-### 7. Logic circuits
+
+### 7. Logic circuits
 
 #### Homework & Readings
 
-* The Golden Ticket, Chapter 8, 10 
+* The Golden Ticket, Chapter 8, 10  
+* Find an article in the popular press (newspaper, magazine, blog, etc. - not a scientific research paper) related to cryptography or data security, preferably one that interviews experts in the field. Prepare to briefly summarize the article at the beginning of class.  
 
 ### 8. Cryptography  
 
